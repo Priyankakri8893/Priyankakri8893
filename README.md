@@ -1,4 +1,4 @@
-[![MasterHead]([https://media.licdn.com/dms/image/D563DAQFIJGy_J4EvYA/image-scale_191_1128/0/1666883668428?e=](https://repository-images.githubusercontent.com/468905916/90ca25d9-022e-4a73-97df-fcf49082363a)1675425600&v=beta&t=q5S0E-n5z-gDvzZPdOvK7oorksu-JESWk3DdbbvU2ss)](https://codegrills.in)
+<img align="center" alt="coding" width="400" src="https://repository-images.githubusercontent.com/468905916/90ca25d9-022e-4a73-97df-fcf49082363a">
 
 <h1 align="center">Hi 👋, I'm Priyanka Kumari</h1>
 <h3 align="center">A passionate backend developer from India</h3>
