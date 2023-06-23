@@ -1,4 +1,4 @@
-<img align="center" alt="coding" width="1300" height="700" src="https://repository-images.githubusercontent.com/468905916/90ca25d9-022e-4a73-97df-fcf49082363a">
+<img align="center" alt="coding" width="1300" height="200" src="https://repository-images.githubusercontent.com/468905916/90ca25d9-022e-4a73-97df-fcf49082363a">
 
 <h1 align="center">Hi 👋, I'm Priyanka Kumari</h1>
 <h3 align="center">A passionate backend developer from India</h3>
